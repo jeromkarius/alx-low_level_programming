@@ -1,13 +1,13 @@
 #include<stdio.h>
 /**
- * main - Entry Point
- * description: 'print _putchar'
- * return always 0 (success)
+ *main - Entry Point
+ *description: 'print _putchar'
+ *Return: Always 0 (success)
  */
 int main(void)
 {
 
-char *sh = "_putcha";
+char *sh = "_putchar";
 while (*sh)
 
 {
