@@ -1,11 +1,12 @@
 #include"main.h"
 /**
- * main - Entry point
+ * main - prints _putchar and a new line
  * void print_alphabet(void): print
  * description:
  * Return: always 0 (success)
  */
 int main(void)
+{
 _putchar('_');
 _putchar('p');
 _putchar('u');
