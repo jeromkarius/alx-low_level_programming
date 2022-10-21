@@ -8,9 +8,8 @@ int _islower(int c)
 {
 int y;
 y = _islower('c');
-{
-_putchar(y);
+_putchar(y+'0');
 _putchar('\n');
-}
+
 return (c);
 }
