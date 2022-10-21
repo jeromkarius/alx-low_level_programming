@@ -6,10 +6,8 @@
 */
 int _islower(int c)
 {
-int y;
-y = _islower('c');
-_putchar(y+'0');
-_putchar('\n');
-
-return (c);
+if (c >= 'a' && c <= 'z')
+	return (1);
+else
+	return (0);
 }
