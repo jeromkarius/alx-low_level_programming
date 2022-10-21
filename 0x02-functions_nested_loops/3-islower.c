@@ -1,9 +1,9 @@
 #include"main.h"
 /**
-  *_islower - check letters
-  *description
-  *return always 0 (success)
-  */
+*_islower - check letters
+*description
+*return always 0 (success)
+*/
 int _islower(int c)
 {
 int y;
