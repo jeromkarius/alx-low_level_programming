@@ -14,5 +14,5 @@ for (k = 'a'; k <= 'z'; k +=9)
 _putchar (k);
 }
 
-return (0);
+_putchar('\n');
 }
