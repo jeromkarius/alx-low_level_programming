@@ -6,8 +6,8 @@
   */
 int _islower(int c)
 {
-int y;
-y= _islower('c');
-_putchar(y);
+int c;
+c= _islower('c');
+_putchar(c);
 _putchar('\n');
 }
