@@ -19,6 +19,9 @@ _putchar((c / 10) + '0');
 else
 _putchar(' ');
 _putchar((c % 10) + '0');
+if (a < 9)
+_putchar(',');
+_putchar(' ');
 _putchar('\n');
 }
 }
