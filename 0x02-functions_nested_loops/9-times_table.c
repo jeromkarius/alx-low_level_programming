@@ -15,10 +15,11 @@ for (b = 0; b <= 9; b++)
 {
 c = a * b;
 if ((c / 10) > 0)
-_putchar((c / 10 + '0'));
+_putchar((c / 10) + '0');
 else
 _putchar(' ');
 _putchar((c % 10) + '0');
+_putchar('\n');
 }
 }
 }
