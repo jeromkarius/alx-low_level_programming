@@ -2,12 +2,14 @@
 /**
   * add - a + b
   *
-  * Description : add two given numbers
+  * Description : return sum
   * @a: first int
   * @b: second int
-  * return alway 0 (success)
-  */
+  * return 1
+ */
+
 int add(int a, int b)
+
 {
 int sum;
 sum = a + b;
