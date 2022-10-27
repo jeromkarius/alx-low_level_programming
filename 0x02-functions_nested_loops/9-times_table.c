@@ -17,7 +17,7 @@ _putchar((c / 10) + '0');
 }
 else
 {
-
+_putchar(' ');
 }
 _putchar((c % 10) + '0');
 if (b < 9)
