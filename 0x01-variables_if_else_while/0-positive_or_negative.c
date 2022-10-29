@@ -15,7 +15,7 @@ n = rand() - RAND_MAX / 2;
 
 if ((n % 10) > 0)
 {
-printf("%dis positive%d\n", n, n % 10);
+printf("%d is positive\n", n);
 }
 else if ((n % 10) == 0)
 {
