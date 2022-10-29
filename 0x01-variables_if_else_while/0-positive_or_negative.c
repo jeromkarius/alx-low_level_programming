@@ -2,8 +2,9 @@
 #include <time.h>
 #include<stdio.h>
 /**
-  * main - check numbers
-  * Description : return negative or positive
+  * main - assign a random number to the variable
+  * @n : variable
+  * Description :  negative or positive
   * return always 0 (success)
   */
 int main(void)
