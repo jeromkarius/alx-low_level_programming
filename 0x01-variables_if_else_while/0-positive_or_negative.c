@@ -2,10 +2,10 @@
 #include <time.h>
 #include<stdio.h>
 /**
-  * main - assign a random number to the variable
-  * @n : variable
-  * Description :  negative or positive
-  * return always 0 (success)
+  * main - prints if the number is positive, negative, 
+    or 0
+  * description: 
+  * return: always 0 
   */
 int main(void)
 {
