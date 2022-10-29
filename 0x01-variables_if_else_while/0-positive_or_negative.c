@@ -19,11 +19,11 @@ printf("%d is positive\n", n);
 }
 else if ((n % 10) == 0)
 {
-printf("%dis zero%d\n", n, n % 10);
+printf("%d is zero\n", n);
 }
 else
 {
-printf("%dis negative%d\n", n, n % 10);
+printf("%d is negative\n", n);
 }
 return (0);
 }
