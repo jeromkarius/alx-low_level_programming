@@ -15,15 +15,15 @@ n = rand() - RAND_MAX / 2;
 
 if ((n % 10) > 0)
 {
-printf("is positive %d is %d/n", n, n % 10);
+printf(" %dis positive%d/n", n, n % 10);
 }
 else if ((n % 10) == 0)
 {
-printf("is zero %d is %d/n", n, n % 10);
+printf("%dis zero%d/n", n, n % 10);
 }
 else
 {
-printf("is negative %d is %d/n", n, n % 10);
+printf("%dis negative%d/n", n, n % 10);
 }
 return (0);
 }
