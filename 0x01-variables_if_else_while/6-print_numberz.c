@@ -12,7 +12,7 @@ while (a <= '9')
 {
 putchar(a);
 a++;
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
