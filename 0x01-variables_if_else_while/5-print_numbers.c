@@ -7,11 +7,10 @@
 
 int main(void)
 {
-int a = 0;
-while (a <= 9)
+int a;
+for (a = 0; a <=9; a++)
 {
-printf("%d\n", a);
-a++;
+printf("%d", a);
 }
 return (0);
 }
