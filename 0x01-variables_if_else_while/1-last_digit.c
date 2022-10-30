@@ -2,11 +2,9 @@
 #include <time.h>
 #include<stdio.h>
 /**
-  * main - Entry point
+  * main - prints a text according number
   *
-  * Description: 'the program's description'
-  *
-  * return always 0 (success)
+  * Return: always  (success)
   */
 int main(void)
 {
